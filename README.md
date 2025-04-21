@@ -23,6 +23,14 @@ Make sure that you have **MeowFace**'s *IP* and *port* configured as specified b
 > MeowFace is not tracking as expected.
 
 MeowFace is not all too perfect at tracking your face... however: some of the tracking may not track as expected when converted for use into VRCFaceTracking's parameter system. Feel free to make an issue if MeowFace doesn't track as expected!
+
+## Opening Issues
+Please report any **issues** you experience and tell me the following:
+- Which phone you used.
+- Where you downloaded the **[MeowFace](https://suvidriel.itch.io/meowface)** android app from.
+- What avatar you used in VRChat (if possible).
+- What operating system you're on
+- Which .NET runtime version you have installed
   
 ## Licenses / Distribution
 
