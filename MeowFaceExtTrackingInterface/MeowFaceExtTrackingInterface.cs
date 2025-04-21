@@ -49,8 +49,8 @@ namespace MeowFaceExtTrackingInterface
             client.Client.SendTimeout = 1000;
             client.Client.ReceiveTimeout = 1000;
 
-            Logger.LogInformation("Seeking MeowFace connection for 60s. Accepting data on " + GetLocalIPAddress() + ":" + port);
-            for (int i = 60; i > 0; i--)
+            Logger.LogInformation("Seeking MeowFace connection for 120s. Accepting data on " + GetLocalIPAddress() + ":" + port);
+            for (int i = 120; i > 0; i--)
             {
                 try
                 {
