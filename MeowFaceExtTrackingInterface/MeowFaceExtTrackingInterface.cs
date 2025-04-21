@@ -81,9 +81,9 @@ namespace MeowFaceExtTrackingInterface
         private static void UpdateEye(ref UnifiedEyeData eye, ref MeowFaceData data)
         {
             // Data has wrong polarization
-            eye.Right.Gaze.x = data.EyeRight.y * radianConst;
+            eye.Right.Gaze.x = -data.EyeRight.y * radianConst;
             eye.Right.Gaze.y = -data.EyeRight.x * radianConst;
-            eye.Left.Gaze.x = data.EyeLeft.y * radianConst;
+            eye.Left.Gaze.x = -data.EyeLeft.y * radianConst;
             eye.Left.Gaze.y = -data.EyeLeft.x * radianConst;
 
             // Both squint and eyeBlink contribute to openness. Using blink to gate squint from affecting openness partially to allow it to modify it's dedicated shape.
