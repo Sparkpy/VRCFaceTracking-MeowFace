@@ -17,8 +17,8 @@
 ## Using MeowFace with VRCFaceTracking
 
 1. Download **MeowFace** from [Itch.io](https://suvidriel.itch.io/meowface)
-2. Initialize `MeowFaceExtTrackingInterface` in the **VRCFaceTracking** app.
-3. Use the information provided from **VRCFaceTracking** to configure **MeowFace** to properly send the data.
+2. Add `MeowFaceInterfaceFix.zip` as a module in the **VRCFaceTracking** app.
+3. On the mobile app, connect to the local IP address of your computer with the default port of 12345.
 
 ## Troubleshooting
 
