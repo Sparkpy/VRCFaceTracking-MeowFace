@@ -6,12 +6,6 @@
 
 [Latest Release](https://github.com/Sparkpy/VRCFaceTracking-MeowFace/releases/tag/Release)
 
-* VRCFaceTracking Module Registry
-  * Install **MeowFace Tracking Module** by looking it up in the **Module Registry** and installing directly!
-  
-* Manual
-  * Include the supplied **.dll** release in `%appdata%/VRCFaceTracking/CustomLibs`. 
-  
 **VRCFaceTracking is required to use MeowFace Tracking Module.**
   
 ## Using MeowFace with VRCFaceTracking
