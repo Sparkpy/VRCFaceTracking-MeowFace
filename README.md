@@ -4,7 +4,7 @@
 
 ## Installing **MeowFace Tracking Module** for **VRCFaceTracking**.
 
-[Latest Release](https://github.com/Sparkpy/VRCFaceTracking-MeowFace/releases/tag/Release)
+[Latest Release](https://github.com/Sparkpy/VRCFaceTracking-MeowFace/releases/)
 
 **[VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking/releases/) is required to use MeowFace Tracking Module.**
   
