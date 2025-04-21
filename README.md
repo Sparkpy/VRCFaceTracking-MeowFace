@@ -4,7 +4,7 @@
 
 ## Installing **MeowFace Tracking Module** for **VRCFaceTracking**.
 
-[Latest Release](https://github.com/regzo2/VRCFaceTracking-MeowFace/releases)
+[Latest Release](https://github.com/Sparkpy/VRCFaceTracking-MeowFace/releases/tag/Release)
 
 * VRCFaceTracking Module Registry
   * Install **MeowFace Tracking Module** by looking it up in the **Module Registry** and installing directly!
@@ -16,7 +16,7 @@
   
 ## Using MeowFace with VRCFaceTracking
 
-1. Download **MeowFace** from [Google Play](https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US&gl=US)
+1. Download **MeowFace** from [Itch.io](https://suvidriel.itch.io/meowface)
 2. Initialize `MeowFaceExtTrackingInterface` in the **VRCFaceTracking** app.
 3. Use the information provided from **VRCFaceTracking** to configure **MeowFace** to properly send the data.
 
